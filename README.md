@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karakusa
-- 👀 I’m interested in coding, languages, sports
+- 👋 Hi, I’m bjoern
+- 👀 I’m interested in coding, languages, sports and much more
 - 🌱 I’m currently learning python, html, CSS and Java Script
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 You can reach me over my page: https://karakusa.github.io/CV/
